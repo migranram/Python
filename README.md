@@ -10,4 +10,4 @@ Small and simple console Music Player
 ## ..*Fractals
 Some codes plotting different fractals.
   1. Sierpinski Carpet
-  <img src="sierpinsky_carpet.gif" width="300">
+  <img src="https://github.com/Migran99/Python---Varios/blob/master/sierpinski_carpet.gif" width="300" height="300">
