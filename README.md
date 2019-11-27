@@ -10,4 +10,4 @@ Small and simple console Music Player
 ## ..*Fractals
 Some codes plotting different fractals.
   1. Sierpinski Carpet
-  ![](sierpinski_carpet.gif)
+  ![](sierpinski_carpet.gif | width = 200)
