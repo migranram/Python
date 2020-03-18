@@ -1,4 +1,4 @@
-# Python---Varios
+# Varios
 Several mini-projects. I have taken reference from may sources in the internet. I do not claim this codes to be 100% mine. This is just a library where I'd like to put some useful (or interesting) pieces of software.
 
 ## + GIF-MAKER
