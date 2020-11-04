@@ -1,4 +1,4 @@
-# Varios
+# Image Resizer
 Resize your pictures (file size) for online profile pictures and uploads. Usually there's a limit of 1MB for example
 
 ## Requirements:
