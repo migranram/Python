@@ -16,7 +16,13 @@ arguments = parser.parse_args()
 size_ob = arguments.size
 scale = unitdef[arguments.units.upper()]
 
+fill_color = 255
+
 myimage = Image.open(arguments.path)
+if myimage.mode in ('RGBA', 'LA'):
+    background = Image.new(myimage.mode[:-1], myimage.size, fill_color)
+    background.paste(myimage, myimage.split()[-1])
+    myimage = background
 
 img_file = BytesIO()
 myimage.save(img_file,'jpeg')
