@@ -18,3 +18,6 @@ Some codes plotting different fractals.
 Lucas Kanade point tracker.
 
 Based on: https://www.geeksforgeeks.org/python-opencv-optical-flow-with-lucas-kanade-method/
+
+## + Salesman Problem + Genetic Algorithm
+Solve the salesman problem with a genetic algorithm.
