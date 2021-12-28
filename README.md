@@ -14,6 +14,7 @@ Some codes plotting different fractals.
   2. Koch Snowflake
   <img src="https://github.com/Migran99/Python---Varios/blob/master/koch_snowflake.gif" width="300" height="300">
   
-## Point tracker
+## + Point tracker
 Lucas Kanade point tracker.
 
+Based on: https://www.geeksforgeeks.org/python-opencv-optical-flow-with-lucas-kanade-method/
