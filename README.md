@@ -21,3 +21,6 @@ Based on: https://www.geeksforgeeks.org/python-opencv-optical-flow-with-lucas-ka
 
 ## + Salesman Problem + Genetic Algorithm
 Solve the salesman problem with a genetic algorithm.
+
+## + Carrousel image divider.
+Divide an image in a grid for social media.
