@@ -1,7 +1,3 @@
-from ast import arg
-from cgi import print_environ_usage
-from distutils.log import error
-from xml.dom import HierarchyRequestErr
 from PIL import Image
 import sys
 
